@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Data Structure & JavaScript **
 
-- 📫 How to reach me **kholoud.sh.2000@gmail.com**
+- 📫 How to reach me **kholoudyazeedthabet@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
